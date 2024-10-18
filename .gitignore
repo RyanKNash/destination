@@ -1,0 +1,13 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.env
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+*.enc
+.env.local
+.env.production.local
